@@ -412,6 +412,10 @@ form .row:first-child .floating-label-form-group {
     border-top: 1px solid #eee;
 }
 
+form .error {
+  color: #ff0000;
+}
+
 footer {
     color: #fff;
 }
